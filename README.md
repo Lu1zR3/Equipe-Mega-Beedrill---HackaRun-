@@ -105,6 +105,21 @@ Os wireframes completos constam no PDF e **não representam telas já implementa
 
 A participação deve ser voluntária, com textos simples, contraste adequado, navegação por teclado e alternativas presenciais. Não está prevista coleta de nomes de crianças, geolocalização precisa ou dados sensíveis. As respostas exibidas à gestão devem ser preferencialmente agregadas. Dados fictícios utilizados na demonstração precisam estar identificados como tal.
 
+
+## Como executar o VibeMind
+
+1. Baixe o repositório e extraia os arquivos.
+2. Abra a pasta no Visual Studio Code.
+3. Instale a extensão Live Server.
+4. Abra `demo/index.html`.
+5. Clique em "Open with Live Server".
+6. No navegador, acesse as abas Visitante,
+   EventMind e Storage.
+
+Consulte as instruções completas em:
+[Instruções de execução](docs/INSTRUCOES_DE_EXECUCAO.md)
+
+
 ## Equipe
 
 **Equipe 04 — Mega Beedrill**
