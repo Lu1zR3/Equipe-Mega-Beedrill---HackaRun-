@@ -4,7 +4,7 @@
 
 **Experiências para todos. Dados para decisões melhores.**
 
-> **Status:** planejamento técnico inicial (`v0.2`, 13/11/2026). O MVP ainda não está implementado.
+Site para visualização do projeto: https://github.com/Lu1zR3/Equipe-Mega-Beedrill---HackaRun-
 
 ## Proposta
 
