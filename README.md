@@ -4,7 +4,7 @@
 
 **Experiências para todos. Dados para decisões melhores.**
 
-Site para visualização do projeto: https://github.com/Lu1zR3/Equipe-Mega-Beedrill---HackaRun-
+Site para visualização do projeto: [https://github.com/Lu1zR3/Equipe-Mega-Beedrill---HackaRun-](https://lu1zr3.github.io/Equipe-Mega-Beedrill---HackaRun-/demo/)
 
 ## Proposta
 
